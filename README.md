@@ -38,14 +38,8 @@ Think of it as:
 ## 🌍 Live Demo
 
 ✨ [Click here to try BurgerNation](https://your-deployed-link.netlify.app)  
-*(Replace this with your actual link once deployed!)*
 
 ---
-
-## 📸 Preview
-
-Add a screenshot or a GIF here!  
-You can use your screen recording and upload a frame as `preview.png`.
 
 ---
 
